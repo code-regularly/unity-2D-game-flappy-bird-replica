@@ -278,7 +278,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Flappy Bird Clone by an Anonymous Coder
+  m_Text: Flappy Bird Clone by Anonymous Coder
 --- !u!222 &580622142
 CanvasRenderer:
   m_ObjectHideFlags: 0
